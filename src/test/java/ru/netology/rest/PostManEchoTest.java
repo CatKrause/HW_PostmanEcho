@@ -32,7 +32,7 @@ public class PostManEchoTest {
                 statusCode(200)
                         .
 
-                body("data", equalTo("Во поле берёза стояла"))
+                body("data", equalTo("Во поле берёзка стояла"))
         ;
     }
 }
